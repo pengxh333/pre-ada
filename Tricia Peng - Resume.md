@@ -1,7 +1,7 @@
 <!--
  * @Author: Tricia Peng
  * @Date: 2021-01-16 23:08:48
- * @LastEditTime: 2021-02-02 13:08:53
+ * @LastEditTime: 2021-02-02 13:37:29
  * @FilePath: /pre-ada/Tricia Peng - Resume.md
 -->
 ​
@@ -32,7 +32,7 @@
 
 ### YouTube | youtube.com (Aug. 2020 - present)
 * python from zero to master tutoril (finished)
-* Solving real world data science tasks with Python Beautiful Soup (finished)
+* Solving data science tasks with Python Beautiful Soup (finished)
 * Comprehensive Python Beautiful Soup Web Scraping Tutorial (finished)
 
 ### freeCodeCamp | freecodecamp.org (Oct. 2020 - present)

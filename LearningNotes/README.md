@@ -1,2 +1,2 @@
 # Learning Notes
-These files are codes when i practice from learning materials
+These files are codes wrote when i practice from learning materials

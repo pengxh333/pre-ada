@@ -1,7 +1,7 @@
 <!--
  * @Author: Tricia Peng
  * @Date: 2021-01-16 23:08:48
- * @LastEditTime: 2021-02-01 20:07:16
+ * @LastEditTime: 2021-02-02 13:08:53
  * @FilePath: /pre-ada/Tricia Peng - Resume.md
 -->
 ​
@@ -30,7 +30,8 @@
 * The Python Mega Course: Build 10 real world applications _(in process)_
 * Master Python programming (_in progress_)
 
-### Youtube | youtube.com (Aug. 2020 - present)
+### YouTube | youtube.com (Aug. 2020 - present)
+* python from zero to master tutoril (finished)
 * Solving real world data science tasks with Python Beautiful Soup (finished)
 * Comprehensive Python Beautiful Soup Web Scraping Tutorial (finished)
 
@@ -41,10 +42,10 @@
 
 #### _Transportation Engineer Assitant_ | WSP USA Inc. | Orange, CA (Mar. 2018 - Apr. 2020)
 
-* Establish systems to organize and streamline various office processes (e.g. SharePoint database with automated Flows for onboarding process)
-* Update internal and public website content and design graphics, print-outs, and other relevant art using Adobe Illustrator
-* Create digital and paper filing systems to organize past and future documents, files, and folders
-* Assist C.O.O. in miscellaneous tasks and determine own tasks by actively looking for needs and possible areas of improvement
+* Assisted with I-5 Managed Lane project PSR, including developing Alternative Plan and Plan Exhibits, reviewing and editing Stormwater Data Report, Drainage and Utility Plan, stopping sight distance calculations and geometric design, Design Standard Decision Document (DSDD), and Project Report (PSR).
+* Contributed in US 101 HOV Lane project PA/ED and Project I-105 Express Lane PA/ED by preparing the proposal, geometric design,  alternative analysis, right-of-way design, impact analysis, flood plain, staff plan, and project schedule management
+* Prepared Temporary Traffic Control plans with application of MUTCD
+* Performed complex and detailed engineering calculations, quantity take-offs, and cost estimates of each alternative
   
 
 ## Computer Skills
